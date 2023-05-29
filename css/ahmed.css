@@ -1472,7 +1472,7 @@ font-size: 30px;
     max-width: 100%;
   }
   @keyframes change-background { 
-    0 {
+    0% {
       background-image: url("../imgs/background1.jpg");
     }
     100% {
