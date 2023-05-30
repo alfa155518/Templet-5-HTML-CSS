@@ -903,6 +903,11 @@ color: var(--main-color);
   top: 0;
   height: 100%;
   background-color: var(--main-color);
+  transition: .7s;
+  -webkit-transition: .7s;
+  -moz-transition: .7s;
+  -ms-transition: .7s;
+  -o-transition: .7s;
 }
 /* end Skills */
 /* Start Work Steps */
